@@ -29,14 +29,6 @@
 - Git
 - GitHub
 
-## 📈 LeetCode Journey
-
-| Difficulty | Solved |
-|------------|---------|
-| Easy | 2+ |
-| Medium | 0 |
-| Hard | 0 |
-
 ## 📌 Featured Repositories
 
 - LEETCODE
