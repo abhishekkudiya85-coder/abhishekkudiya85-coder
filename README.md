@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**abhishekkudiya85-coder/abhishekkudiya85-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek 👋
 
-Here are some ideas to get you started:
+💻 First Year BSc Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Learning C++ & Data Structures and Algorithms
+
+🔥 Solving LeetCode Problems Daily
+
+📚 Currently Learning
+- C Programming
+- C++
+- Data Structures & Algorithms
+- Mathematics
+- Fundamentals of Computing
+
+## 🎯 Goals for 2026
+- Solve 300+ LeetCode Problems
+- Master DSA
+- Learn Data Science Basics
+- Build Strong GitHub Profile
+
+## 🛠 Languages & Tools
+
+- C
+- C++
+- VS Code
+- Git
+- GitHub
+
+## 📈 LeetCode Journey
+
+| Difficulty | Solved |
+|------------|---------|
+| Easy | 2+ |
+| Medium | 0 |
+| Hard | 0 |
+
+## 📌 Featured Repositories
+
+- LEETCODE
+- MY-DSA-SERIES
+
+## 🌟 Motto
+
+"Consistency beats motivation."
