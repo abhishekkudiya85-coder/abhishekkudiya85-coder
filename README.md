@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhishek 👋
 
-💻 First Year BSc Student
+💻 First Year Bca Student
 
 🚀 Learning C++ & Data Structures and Algorithms
 
@@ -10,6 +10,7 @@
 
 📚 Currently Learning
 - C Programming
+- python
 - C++
 - Data Structures & Algorithms
 - Mathematics
@@ -25,14 +26,10 @@
 
 - C
 - C++
+- python
 - VS Code
 - Git
 - GitHub
-
-## 📌 Featured Repositories
-
-- LEETCODE
-- MY-DSA-SERIES
 
 ## 🌟 Motto
 
