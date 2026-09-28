@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhishek 👋
 
-💻 First Year Bca Student
+💻 Second Year Bca Student
 
 🚀 Learning C++ & Data Structures and Algorithms
 
